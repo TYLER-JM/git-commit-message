@@ -9,8 +9,12 @@
   "scripts": {
     "test": "test"
   },
+  "bin": {
+    "gcm": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "keywords": [
-    "commit"
+    "commit", "git", "message"
   ],
   "author": {
     "name": "Tyler Martin",
