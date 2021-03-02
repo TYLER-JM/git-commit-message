@@ -1,0 +1,21 @@
+{
+  "name": "git-commit-message",
+  "version": "1.0.0",
+  "description": "git commit with a message prefixed by the branch name",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "commit"
+  ],
+  "author": {
+    "name": "Tyler Martin",
+    "email": "tyler.j.a.martin@gmail.com",
+    "url": "https://tylermartin.netlify.com/"
+  },
+  "license": "ISC"
+}
