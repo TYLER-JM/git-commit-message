@@ -4,7 +4,14 @@
 
 #### Usage
 
-`$ gcm "new commit message"`
+`$ gcm "my next commit message"`
+
+would write a commit message like this:
+
+```
+<branch-name>
+my next commit message
+```
 
 
 #### Stretch
