@@ -6,10 +6,10 @@
 
 `$ gcm "my next commit message"`
 
-would write a commit message like this:
+If you were on a branch called `hotfix/bug-fix`, this would write a commit message like this:
 
 ```
-<branch-name>
+hotfix/bug-fix
 my next commit message
 ```
 
