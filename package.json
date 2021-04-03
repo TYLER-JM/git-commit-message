@@ -1,6 +1,6 @@
 {
   "name": "git-commit-message",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "git commit with a message prefixed by the branch name",
   "main": "./lib/index.js",
   "directories": {
@@ -14,7 +14,9 @@
   },
   "preferGlobal": true,
   "keywords": [
-    "commit", "git", "message"
+    "commit",
+    "git",
+    "message"
   ],
   "author": {
     "name": "Tyler Martin",
