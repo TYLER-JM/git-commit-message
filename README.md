@@ -1,6 +1,10 @@
 ## GCM
 
-- a small script using node's child_process to make a git commit with a message prefixed with the branch name
+- a small script using node's child_process to make a git commit message that is automatically prefixed with the name of the current branch.
+
+#### Install
+
+The package is indended to be installed globally using `npm install -g git-commit-message`
 
 #### Usage
 
