@@ -4,7 +4,7 @@
 
 #### Install
 
-The package is indended to be installed globally using `npm install -g git-commit-message`
+The package is indended to be installed globally. It is published on NPM as [git-commit-message](https://www.npmjs.com/package/git-commit-message). install with `npm install -g git-commit-message`
 
 #### Usage
 
@@ -20,5 +20,6 @@ my next commit message
 ```
 
 
-#### Stretch
-- allow for configuration of the prefix message
+#### questions or concerns
+
+- If you would like to use the package but run into errors while trying to install or use it, let me know. I'd like to know how to improve the package
